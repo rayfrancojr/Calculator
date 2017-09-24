@@ -6,7 +6,7 @@
 //  Copyright © 2017 Eleix. All rights reserved.
 //
 
-// Xcode 9 has line numbers that I like
+// Xcode 9 has line numbers that I like. I like it a lot
 
 import Foundation
 
