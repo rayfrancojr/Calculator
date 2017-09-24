@@ -6,10 +6,11 @@
 //  Copyright © 2017 Eleix. All rights reserved.
 //
 
+
 import Foundation
 
 
-
+// This is the Model and it is UI independent
 struct CalculatorBrain {
     
     private var accumulator: Double?
