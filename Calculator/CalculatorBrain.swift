@@ -21,7 +21,7 @@ struct CalculatorBrain {
         case binaryOperation((Double, Double)->Double)
         case equals
     }
-    
+    // This code uses closurers {inline code}
     private var operations: Dictionary<String, Operation> = [
         "π"   : Operation.constant(Double.pi),
         "e"   : Operation.constant(M_E),
